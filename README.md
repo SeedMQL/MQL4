@@ -3,7 +3,7 @@ learning mql 4
 
 
 ## TODO 
-- [x] create ae deom
+- [x] create expert advisor demo
 * task 1
 - [ ] take 140 course  
 * task 1
